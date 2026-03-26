@@ -45,7 +45,7 @@ Then I reduce latency, remove bottlenecks, and make it practical.
 > 사용자 취향 기반 취미 추천 서비스
 
 - MBTI와 유사한 취향 기준 도입
-- 약 200개 가량의 취미 데이터 확보
+- 약 200개의 취미 데이터 확보
 
 **Role**  
 `Contributor` / `Project Development`
